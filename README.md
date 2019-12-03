@@ -3,21 +3,21 @@
     <img src="./images/opencv-logo.png" display="inline-block"
     margin-left="auto"
     margin-right="auto"
-    width="30%" ></img>
+    width="32%" ></img>
     <img src="./images/cpp_logo.png" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
-    width="30%"></img>
+    width="32%"></img>
     <img src="./images/Web_Assembly_Logo.svg" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
-    width="30%"></img>
+    width="32%"></img>
 </div>  
 
 # OpenCV Static WASM Docker
 [![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/opencv-static-wasm.svg)](https://hub.docker.com/r/bryankp/opencv-static-wasm)
 
-This Docker Image allows for OpenCV C++ applications to be brought to the web by providing OpenCV as a static library compilied for WASM.  
+This Docker Image allows for OpenCV C++ applications to be brought to the web by providing OpenCV as a static library compiled for WASM.  
 
 Simply use the Emscripten toolchain along with path for the static library when compiling your application.
 
