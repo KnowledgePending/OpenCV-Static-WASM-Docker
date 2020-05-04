@@ -8,7 +8,7 @@
     margin-left=" auto"
     margin-right=" auto"
     width="32%"></img>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Web_Assembly_Logo.svg/1200px-Web_Assembly_Logo.svg.png" display="inline-block"
+    <img src="https://raw.githubusercontent.com/KnowledgePending/OpenCV-Static-WASM-Docker/master/images/Web_Assembly_Logo.svg" display="inline-block"
     margin-left=" auto"
     margin-right=" auto"
     width="32%"></img>
