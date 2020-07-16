@@ -16,6 +16,7 @@
 
 # [OpenCV Static WASM Docker](https://github.com/KnowledgePending/OpenCV-Static-WASM-Docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bryankp/opencv-static-wasm.svg)](https://hub.docker.com/r/bryankp/opencv-static-wasm)
+![Docker](https://github.com/KnowledgePending/OpenCV-Static-WASM-Docker/workflows/Docker/badge.svg)
 
 This Docker Image allows for OpenCV C++ applications to be brought to the web by providing OpenCV as a static library compiled for WASM.  
 
